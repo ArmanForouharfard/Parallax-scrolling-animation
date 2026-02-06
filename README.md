@@ -1,6 +1,9 @@
 # Parallax-scrolling-animation
 
 A parallax scrolling implementation based on Codehal's tutorial.
+- [Demo project] (https://armanforouharfard.github.io/Parallax-scrolling-animation/index.html)
+- Modified by: [Arman Forouharfard]
+- Date: [2/5/2026]
 
 ## 🎥 Tutorial Source
 - **Creator:** Codehal
